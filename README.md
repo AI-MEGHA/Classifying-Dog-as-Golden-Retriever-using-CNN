@@ -1,0 +1,2 @@
+# Classifying-Dog-as-Golden-Retriever-using-CNN
+One thing we do is that we identify certain parts of the dog, such as the nose, the eyes, and the fur. We essentially break up the image into smaller pieces, recognize the smaller pieces, and then combine those pieces to get an idea of the overall dog. In this case, we might break down the image into a combination of the following: A nose Two eyes Golden fur
